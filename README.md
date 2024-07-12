@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_.akhilkannan._/" target="_blank">
+  <a href="https://www.instagram.com/_.akhilkannan._/" target="_blank" style="border-radius:20px">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff0066&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=c61aff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
