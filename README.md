@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/68eab98108365b0b3604cc9bef4f213d/fc718164cfb2104c-cd/s1280x1920/2d7ae8f63d3ee36c2d96322dda66db04433a6e50.gifv"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="17" />
@@ -50,12 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Alverok/Alverok/output/snake.svg" alt="Snake animation" />
 
 ###
 
