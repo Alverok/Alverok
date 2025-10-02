@@ -1,5 +1,5 @@
 # 🪸 Hey there! I'm Akhil 👋🏼
-🔭 I’m currently working on S.P.A.R.K - Heatmap & AI<br>🤝 I’m looking for help with Open-Source-Contributions & Projects<br>🌱 I’m currently learning AI/ML & Data Science<br>⚡ Fun fact: I'm an Adventurer & Art Passionist! 
+🤝 I’m looking for help with Open-Source-Contributions & Projects<br>🌱 I’m currently learning AI/ML & Data Science<br>⚡ Fun fact: I'm an Adventurer & Art Passionist! 
 
 
 ## 🌐 My Socials
